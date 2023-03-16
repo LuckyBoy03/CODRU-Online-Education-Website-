@@ -485,7 +485,7 @@ background color - #29323c */
 }
 
 
-@media (width <= 700px) {
+@media screen and (width <= 700px) {
   .doubt_card .dcard {
     background-image: url(/img/Cyber.png);
 
